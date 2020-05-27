@@ -64,5 +64,22 @@ header{
   transition: width 200ms ease-in-out;
 }
 
+/* card */
+
+.card{
+  background-color: white;
+  width: 880px;
+  height: 400px;
+  margin: 45px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  box-shadow: ;
+}
+
+.card .avatar{
+  background: url(https://source.unsplash.com/collection/8969654/500x500) no-repeat center center /cover;
+}
+
+
 
 
