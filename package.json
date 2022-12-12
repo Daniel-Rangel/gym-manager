@@ -8,7 +8,7 @@
     "browsersync": "browser-sync start --proxy http://127.0.0.1:5000 --files ./"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nunjucks": "^3.2.1"
   },
   "devDependencies": {
